@@ -1,6 +1,6 @@
 # VFX Project1 High Dynamic Range imaging
 B06607057 蘇鈺崴
-
+<th><img src="data/toneimg/tonecoach_blend_0.5_norm.png " width="1000"><br>Blend</th>
 ## Enviroment
 python 3.9 \
 opencv 4.5.4\
@@ -65,11 +65,11 @@ So I have also Blend Local and Global operators together.
 <table>
 <tr>
 
-<th><img src="data/outside2/0.jpg" width="200"><br>1/652 sec</th>
-<th><img src="data/outside2/3.jpg" width="200"><br> 1/82sec</th>
-<th><img src="data/outside2/10.jpg" width="200"> <br> 1/16sec</th>
-<th><img src="data/outside2/14.jpg" width="200"> <br> 1 sec</th>
-<th><img src="data/outside2/15.jpg" width="200"> <br> 2 sec</th>
+<th><img src="data/outside/0.jpg" width="200"><br>1/652 sec</th>
+<th><img src="data/outside/3.jpg" width="200"><br> 1/82sec</th>
+<th><img src="data/outside/10.jpg" width="200"> <br> 1/16sec</th>
+<th><img src="data/outside/14.jpg" width="200"> <br> 1 sec</th>
+<th><img src="data/outside/15.jpg" width="200"> <br> 2 sec</th>
 
 
 </tr>
@@ -108,11 +108,11 @@ So I have also Blend Local and Global operators together.
 ### 23 picture range from 1/652 to 1/2 exposure second.
 <table>
 <tr>
-<th><img src="data/coach2/0.jpg " width="200"><br>1/652 sec</th>
-<th><img src="data/coach2/1.jpg " width="200"><br> 1/326sec</th>
-<th><img src="data/coach2/10.jpg" width="200"> <br> 1/68sec</th>
-<th><img src="data/coach2/21.jpg" width="200"> <br> 1/7 sec</th>
-<th><img src="data/coach2/23.jpg" width="200"> <br> 1/2 sec</th>
+<th><img src="data/coach/0.jpg " width="200"><br>1/652 sec</th>
+<th><img src="data/coach/1.jpg " width="200"><br> 1/326sec</th>
+<th><img src="data/coach/10.jpg" width="200"> <br> 1/68sec</th>
+<th><img src="data/coach/21.jpg" width="200"> <br> 1/7 sec</th>
+<th><img src="data/coach/23.jpg" width="200"> <br> 1/2 sec</th>
 
 
 </tr>
