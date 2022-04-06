@@ -1,6 +1,6 @@
 # VFX Project1 High Dynamic Range imaging
 B06607057 蘇鈺崴
-<th><img src="data/toneimg/tonecoach_blend_0.5_norm.png " width="1000"><br>Blend</th>
+<img src="data/toneimg/toneoutside_blend_0.5_clip.png " width="1000">
 ## Enviroment
 python 3.9 \
 opencv 4.5.4\
