@@ -1,4 +1,4 @@
-# VFX Project1
+# VFX Project1 High Dynamic Range imaging
 B06607057 蘇鈺崴
 
 ## Enviroment
