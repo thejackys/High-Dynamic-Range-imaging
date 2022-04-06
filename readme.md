@@ -6,7 +6,6 @@ python 3.9 \
 opencv 4.5.4\
 numpy 1.16.6
 ## Usage
-### 0. 
 ### 1. hdr.sh: Computing radience map to output.npy 
 hdr.sh will save the radience map into output.npy and output.hdr.
 
@@ -30,8 +29,6 @@ Parameters: Reinhard's tonemapping parameters.
 ### 3. hw1.sh: reproduce the hdr image for coach and road.
     
     bash tone.sh
-# VFX Project1
-B06607057 蘇鈺崴
 ## Algorithm implemented
 
 ### 1 HDR radiance map: 
